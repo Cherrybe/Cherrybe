@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Cherrybe
-- 👀 I’m interested in fullstack engineering
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on available projects
-- 📫 How to reach me casane45@gmail.com
+Welcome to my GitHub profile! I'm Cherrybe, a frontend-focused full-stack developer specializing in React.js and Node.js. With a strong passion for creating visually appealing and user-friendly web applications, I bring expertise in building robust and seamless user interfaces. Looking forward to sharing my projects and collaborating with the developer community.
 
 <!---
 Cherrybe/Cherrybe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
